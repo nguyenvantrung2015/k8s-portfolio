@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: portfolio
-          image: samnv1996/portfolio:80a18f1386354d15a9d2b2f01b0aa3b0be624d41
+          image: samnv1996/portfolio:4cb33ec9f220d1da55e886245bf75d7302ab72bf
           ports:
             - containerPort: 3000
           env:
